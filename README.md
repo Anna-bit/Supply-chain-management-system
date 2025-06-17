@@ -6,7 +6,7 @@
 
 This Power BI & SQL project delivers a comprehensive analysis of a global supply chain system, offering end-to-end visibility into supplier performance, raw material distribution, transportation routes, and cost metrics. The interactive dashboard tracks 47 total orders involving 13 raw materials and evaluates the contributions of 10 suppliers across key global regions including East Asia, Europe, Africa, and the Americas.
 
-* Key insights include:
+**Key insights include:**
 •	East Asia Plastics and India Textiles Co. are top suppliers by order volume.
 •	Recycled Plastic and Scrap metal are the most supplied raw materials.
 •	Sea routes dominate logistics, accounting for 72% of supplier transport which impacts the lead time.
@@ -17,8 +17,8 @@ This Power BI & SQL project delivers a comprehensive analysis of a global supply
 The report highlights raw materials with triggered pricing conditions, assisting procurement in cost control and vendor evaluation.
 This analysis supports data-driven supply chain optimization by identifying sourcing efficiencies, cost drivers, and regional supplier strengths.
 
-**Tools Used: ** Power BI, DAX, Excel, SQL
-Impact: Helped stakeholders pinpoint cost inefficiencies, optimize vendor selection, and improve supply chain responsiveness through data-driven insights.
+**Tools Used:** Power BI, DAX, Excel, SQL
+**Impact:** Helped stakeholders pinpoint cost inefficiencies, optimize vendor selection, and improve supply chain responsiveness through data-driven insights.
 
 
 
