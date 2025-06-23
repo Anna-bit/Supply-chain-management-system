@@ -3,7 +3,7 @@
 This project delivers a comprehensive analysis of a global supply chain system using **MySQL** and **Power BI**, offering end-to-end visibility into supplier performance, raw material distribution, transportation routes, and cost metrics.
 
 ### 🔧 Tools Used:
-**Power BI**, **SQL**, **DAX**, **Excel**
+**Power BI**, **SQL**, **DAX**
 
 ### 📌 Project Highlights:
 
